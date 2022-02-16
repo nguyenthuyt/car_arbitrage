@@ -16,11 +16,13 @@ ___________________________
 ## By location?
 Choose one state in west coast, one in east coast, and one in midwest
 CA - ![Plot CA](Images/ca.PNG)
+![Stats CA](Images/ca_stats.PNG)
 
 WI - ![Plot WI](Images/wi.PNG)
+![Stats WI](Images/wi_stats.PNG)
 
 FL - ![Plot FL](Images/fl.PNG)
-
+![Stats FL](Images/fl_stats.PNG)
 
 
 
@@ -47,4 +49,4 @@ Chevy
 __________________________
 ## Recommendation
 
-Based on the visualizations, we recommend the client focus on a combination of vehicle and location, xxx vehicle in yyy location. Economies of scale as a result discounted freight. 
+Based on the visualizations, we recommend the client focus on a combination of vehicle and location, Dodge in the midwest. Economies of scale as a result discounted freight. 
