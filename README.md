@@ -11,6 +11,12 @@ ______________________________
 
 ![Plot 4](Images/scatter_plot.PNG)
 
+![Plot 5](Images/state_pct_return_bar.PNG)
+
+![Plot 6](Images/vehicle_pct_return_bar.PNG)
+
+
+
 
 ___________________________
 ## By location?
