@@ -86,7 +86,7 @@ This plot shows the number of opportunities by vehicle type
 This chart shows the percent return that the arbitrage could acheive grouped by state. One should be careful in placing too much stock in this visual, as it does not take into account the number
 of trucks in each state. For example, the TN return of almost 30% is representative of just 1 vehicle.
 
-![Plot 6](Images/vehicle_net_profit_bar.PNG)
+![Plot 6](Images/vehicle_net_profit_bar.png?raw=True)
 This chart shows the average net profit acheivable in each state. The same cares expressed above should be taken with this chart.
 
 
