@@ -86,7 +86,7 @@ This plot shows the number of opportunities by vehicle type
 This chart shows the percent return that the arbitrage could acheive grouped by state. One should be careful in placing too much stock in this visual, as it does not take into account the number
 of trucks in each state. For example, the TN return of almost 30% is representative of just 1 vehicle.
 
-![Plot 6](Images/vehicle_net profit_bar.PNG)
+![Plot 6](Images/vehicle_net_profit_bar.PNG)
 This chart shows the average net profit acheivable in each state. The same cares expressed above should be taken with this chart.
 
 
@@ -136,9 +136,29 @@ to provide lower arbitrage value than GMC or Dodge, but there may be opportuniti
 
 
 __________________________
-## Recommendation
+## Conclusion
 
-Based on the visualizations, we recommend a focus on a combination of vehicle and location, Dodge trucks in the midwest. Economies of scale could be acheived as a result discounted freight from moving several vehicles on the same auto transporter.
+**Question:** After reviewing the profit information across each car type from the different states, can you identify any patterns or trends? Are there any arbitrage opportunities for buying cars nationally and reselling the cars in Texas?
+
+**Answer:** 
+1.	Are there truck arbitrage opportunities for re-sale in Texas?
+
+    I.	Yes, we are recommending Gen Z & Co further choose to apply working capital towards gain access to a reputable API. 
+    II.	One such example is Auto-Trader, this company host an API which contains a good mix of dealer and private individuals sell vehicles.
+    III.	 This would be a great way to aggerate opportunities for arbitrage and consolidate transportation based on geographic location, popular brands and/or best profit margins. 
+    
+2.	What are the best arbitrage opportunities by location?
+
+    I.	By geographic location, the best opportunities lie in the Midwest region. 
+    II.	We recommend care when dealing with this region as it is commonly known as the rust belt. 
+    III.The Midwest has the highest rate of truck value depreciation, when comparing with the same trucks in Texas. This region presents the best opportunity. 
+        I.	Stick to the newer, lower milage vehicles to mitigate risks. 
+        
+3.	Which specific manufacturers offer the greatest arbitrage margins?
+
+    I.	We found Dodge trucks, in the Ram model present the best opportunity due to rapid depreciation. 
+        I. A minimum of $900.00 with a mean net profit of  around $5000.00, and potential max net profit of around $12,000.00.
+        II. Chevy is the next best arbitrage opportunity.
 
 ---
 
